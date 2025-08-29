@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dada",
+        "age": 21,
+        "email": "dada@gmail.com",
+        "pin": 1234,
+        "accountNo": "Z7*9Ol4",
+        "balance": 0
+    },
+    {
+        "name": "Tanmay",
+        "age": 21,
+        "email": "deshvan@gmail.com",
+        "pin": 1111,
+        "accountNo": "5a7Zc4|",
+        "balance": 5000
+    },
+    {
+        "name": "shiv",
+        "age": 23,
+        "email": "shiv@gmail.com",
+        "pin": 1234,
+        "accountNo": "60tj-6b",
+        "balance": 6000
+    },
+    {
+        "name": "Sanjivani",
+        "age": 45,
+        "email": "sanjivani@gmail",
+        "pin": 1234,
+        "accountNo": "39qRx2$",
+        "balance": 8000
+    }
+]
